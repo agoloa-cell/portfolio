@@ -15,8 +15,11 @@
   <section>
     <h2>🌐 Web Projects</h2>
     <ul>
-      <li><a href="https://clarkefire.uk/" target="_blank">Oil and Gas</a> – Oil and Gas Services</li>
-      <li><a href="https://logiconesolution.com/" target="_blank">Digital Services</a> – Information Technology Services</li>
+      <li><a href="https://clarkefire.uk/" target="_blank">Corporate Website</a> – Oil and Gas Services</li>
+      <li><a href="https://logiconesolution.com/" target="_blank">Business / Corporate Website</a> – Digital & Information Technology Services</li>
+      <li><a href="https://owenlinkworld.com/" target="_blank">Business Website</a> – Oil and Gas</li>
+      <li><a href="https://visionaluminiumgroup.com/" target="_blank">Corporate Website</a> – Manufacturing / Aluminium Services</li>
+      <li><a href="https://propertymindsng.com/" target="_blank">Corporate Website</a> – Real Estate and facility Management</li>
     </ul>
   </section>
 

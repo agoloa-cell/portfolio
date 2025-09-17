@@ -49,8 +49,7 @@
       <figure>
         <figcaption><a href="https://www.figma.com/proto/0449d2Orh2gTZXAhgwrI7g/Dissertation-Work?node-id=47-319&t=9oo2aT0bV8ojr6g8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=47%3A319" target="_blank">UIUX Dental Design)</a></figcaption>
       </figure>
-     
-    </div>
+    
   </section>
 
   <footer>

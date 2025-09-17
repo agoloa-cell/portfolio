@@ -31,6 +31,8 @@
       </figure>
     </div>
     <p>Pages</p>
+
+  </section>
 [Indicator](https://github.com/user-attachments/assets/b1665b85-9bcb-4abe-aeeb-4ef6ca0da160)
 <img width="254" height="44" alt="DENTAL CARE" src="https://github.com/user-attachments/assets/e1678ccd-c916-4996-92b1-e11c1e5fd26f" />
 ![18  New User Login](https://github.com/user-attachments/assets/3300a085-6615-4843-993c-0a467a446024)
@@ -51,8 +53,6 @@
 ![3Create Account](https://github.com/user-attachments/assets/8066fb44-dea4-4bf9-82d1-c85c2fe1284c)
 ![2Login](https://github.com/user-attachments/assets/058b946c-72b7-4384-af84-fb885b78d408)
 ![1landing](https://github.com/user-attachments/assets/ea578114-d40f-4d12-8b2f-e6e0a2ed3590)
-  </section>
-
   <footer>
     <p>📧 Contact: agoloanderson@gmail.com | 📱 08060083679</p>
   </footer>

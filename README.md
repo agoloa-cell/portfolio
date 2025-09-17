@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anderson Agolo - Portfolio</title>
+  <title> Anderson Agolo - Portfolio </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -33,7 +33,7 @@
     <p>Pages</p>
 
   </section>
-![1landing](https://github.com/user-attachments/assets/d4f7c09a-2c34-4f6b-bea7-035a91a89034)
+
 
   <footer>
     <p>📧 Contact: agoloanderson@gmail.com | 📱 08060083679</p>
